@@ -17,7 +17,7 @@
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/structure-complex-networks.pdf">The Structure and Function of Complex Networks</a>, M. E. J. Newman, SIAM Review, 2003, 45, 167-256.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/link-mining-overview.pdf">Link Mining: A New Data Mining Challenge</a>, L. Getoor, SIGKDD Explorations, 2003, 5(1), 84-89.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/link-mining-survey.pdf">Link Mining: A Survey</a>, L. Getoor, SIGKDD Explorations, 2005, 7(2), 3-12.</p>
-<p>Semi-supervised Learning</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/SemiSupervised-Learning.pdf">Semi-supervised Learning</a></p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/ssl_survey.pdf">Semi-Supervised Learning Literature Survey</a>, X. Zhu, Computer Sciences TR 1530, University of Wisconsin &mdash; Madison.</p>
 <p>Introduction to Semi-Supervised Learning, in&nbsp;Semi-Supervised Learning&nbsp;(Chapter 1) O. Chapelle, B. Scholkopf, A. Zien (eds.), MIT Press, 2006.&nbsp;(Fordham&rsquo;s library has online access to the entire text)</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/semi-supervised-learning-review-seeger.pdf">Learning with Labeled and Unlabeled Data</a>, M. Seeger, University of Edinburgh (unpublished), 2002.</p>
