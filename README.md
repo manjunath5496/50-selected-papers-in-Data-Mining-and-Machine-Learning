@@ -52,7 +52,8 @@
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/maloof-icml03-wids.pdf">Learning when Data Sets are Imbalanced and When Costs are Unequal and Unknown</a>, M. Maloof, in&nbsp;ICML Workshop on Learning from Imbalanced Datasets II, 2003.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/Juszczak.pdf">Uncertainty Sampling Methods for One-class Classifiers</a>, P. Juszcak and R. Duin, in&nbsp;ICML Workshop on Learning from Imbalanced Datasets II, 2003.</p>
 
-
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/drummondc.pdf">C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling</a>, C. Drummond and R. Holte, in&nbsp;ICML Workshop onLearning from Imbalanced Datasets II, 2003.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/chawla.pdf">C4.5 and Imbalanced Data sets: Investigating the effect of sampling method, probabilistic estimate, and decision tree structure</a>, N. Chawla, in&nbsp;ICML Workshop on Learning from Imbalanced Datasets II, 2003.</p>
 
 
 
