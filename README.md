@@ -69,7 +69,10 @@
 
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/new-japkowicz.pdf">Class Imbalances: Are we Focusing on the Right Issue?</a>, N. Japkowicz, in&nbsp;ICML Workshop on Learning from Imbalanced Datasets II, 2003.</p>
 
+</br>
 
-
+<h1><strong>Recommender Systems</strong></h1>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/odonovan-05.pdf">Trust No One: Evaluating Trust-based Filtering for Recommenders</a>, J. O&rsquo;Donovan and B. Smyth, In Proceedings of the 19th International Joint Conference on Artificial Intelligence (IJCAI-05), 2005, 1663-1665.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/odonovan-0556.pdf">Trust in Recommender Systems</a>, J. O&rsquo;Donovan and B. Symyth, In Proceedings of the 10th International Conference on Intelligent User Interfaces (IUI-05), 2005, 167-174.</p>
 
 
