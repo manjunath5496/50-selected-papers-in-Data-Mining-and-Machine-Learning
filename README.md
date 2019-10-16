@@ -30,3 +30,18 @@
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/kdd440-nguyen.pdf">Classification with Partial labels</a>, N. Nguyen, R. Caruana, in&nbsp;Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2008.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/decision-trees-partially-classified-data.pdf">Induction of Decision Trees from Partially Classified Data Using Belief Functions</a>, M. Bjanger, Norweigen University of Science and Technology, 2000.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/WS94-03-010.pdf">Knowledge Discovery in Large Image Databases: Dealing with Uncertainties in Ground Truth</a>, P. Smyth, M. Burl, U. Fayyad, P. Perona, KDD Workshop 1994, AAAI Technical Report WS-94-03, pp. 109-120, 1994.</p>
+</br>
+
+<h1><strong>Active Learning</strong></h1>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/cohn94.pdf">Improving Generalization with Active Learning</a>, D Cohn, L. Atlas, and R. Ladner, Machine Learning 15(2), 201-221, May 1994.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/zheng02.pdf">On Active Learning for Data Acquisition</a>, Z. Zheng and B. Padmanabhan, In Proc. of IEEE Intl. Conf. on Data Mining, 2002.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/saar04.pdf">Active Sampling for Class Probability Estimation and Ranking</a>, M. Saar-Tsechansky and F. Provost, Machine Learning 54:2 2004, 153-178.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/meek02.pdf">The Learning-Curve Sampling Method Applied to Model-Based Clustering</a>, C. Meek, B. Thiesson, and D. Heckerman, Journal of Machine Learning Research 2:397-418, 2002.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/veeramachaneni03.pdf">Active Sampling for Feature Selection</a>, S. Veeramachaneni and P. Avesani, Third IEEE Conference on Data Mining, 2003.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/lewis94.pdf">Heterogeneous Uncertainty Sampling for Supervised Learning</a>, D. Lewis and J. Catlett, In Proceedings of the 11th International Conference on Machine Learning, 148-156, 1994.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/weiss03a.pdf">Learning When Training Data are Costly: The Effect of Class Distribution on Tree Induction</a>, G. Weiss and F. Provost, Journal of Artificial Intelligence Research, 19:315-354, 2003.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/active-learning-adaptive-sampling.pdf">Active Learning using Adaptive Resampling</a>, KDD 2000, 91-98.</p>
+
+
+
+
