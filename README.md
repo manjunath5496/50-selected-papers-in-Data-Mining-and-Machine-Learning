@@ -1,3 +1,4 @@
+<h3><strong>General </strong></h3>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-and-statistics-friedman.pdf">Data Mining and Statistics: What&rsquo;s the Connection?</a></p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-and-statistics-hand.pdf">Data Mining: Statistics and More?</a>, D. Hand, American Statistician, 52(2):112-118.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-chapter-2010.pdf">Data Mining</a>, G. Weiss and B. Davison, in Handbook of Technology Management, John Wiley and Sons, expected 2010.</p>
