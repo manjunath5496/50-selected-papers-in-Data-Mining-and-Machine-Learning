@@ -1,1 +1,7 @@
-# 50-selected-papers-in-Data-Mining-and-Machine-Learning
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-and-statistics-friedman.pdf">Data Mining and Statistics: What&rsquo;s the Connection?</a></p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-and-statistics-hand.pdf">Data Mining: Statistics and More?</a>, D. Hand, American Statistician, 52(2):112-118.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/data-mining-chapter-2010.pdf">Data Mining</a>, G. Weiss and B. Davison, in Handbook of Technology Management, John Wiley and Sons, expected 2010.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/from_data_mining_to_kdd.pdf">From Data Mining to Knowledge Discovery in Databases</a>, U. Fayyad, G. Piatesky-Shapiro &amp; P. Smyth, AI Magazine, 17(3):37-54, Fall 1996.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/mining-business-databases.pdf">Mining Business Databases</a>, Communications of the ACM, 39(11): 42-48.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/top10-dm-problems.pdf">10 Challenging Problems in Data Mining Research</a>, Q. Yiang and X. Wu, International Journal of Information Technology &amp; Decision Making, Vol. 5, No. 4, 2006, 597-604.</p>
+
