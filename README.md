@@ -41,7 +41,9 @@
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/lewis94.pdf">Heterogeneous Uncertainty Sampling for Supervised Learning</a>, D. Lewis and J. Catlett, In Proceedings of the 11th International Conference on Machine Learning, 148-156, 1994.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/weiss03a.pdf">Learning When Training Data are Costly: The Effect of Class Distribution on Tree Induction</a>, G. Weiss and F. Provost, Journal of Artificial Intelligence Research, 19:315-354, 2003.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/active-learning-adaptive-sampling.pdf">Active Learning using Adaptive Resampling</a>, KDD 2000, 91-98.</p>
+</br>
 
-
-
+<h1><strong>Cost-Sensitive Learning</strong></h1>
+<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/turney2000.pdf">Types of Cost in Inductive Concept Learning</a>, P. Turney, In Proceedings Workshop on Cost-Sensitive Learning at the Seventeenth International Conference on Machine Learning.</p>
+<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/chan98.pdf">Toward Scalable Learning with Non-Uniform Class and Cost Distributions: A Case Study in Credit Card Fraud Detection</a>, P. Chan and S. Stolfo, KDD 1998.</p>
 
