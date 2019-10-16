@@ -14,7 +14,7 @@
 </br>
 <h1><strong>Web and Link Mining</strong></h1>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/classic-pagerank-paper.pdf">The Pagerank Citation Ranking: Bringing Order to the Web</a>, L. Page, S. Brin, R. Motwani, T. Winograd, Technical Report, Stanford University, 1999.</p>
-<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/structure-complex-networks">The Structure and Function of Complex Networks</a>, M. E. J. Newman, SIAM Review, 2003, 45, 167-256.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/structure-complex-networks.pdf">The Structure and Function of Complex Networks</a>, M. E. J. Newman, SIAM Review, 2003, 45, 167-256.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/link-mining-overview.pdf">Link Mining: A New Data Mining Challenge</a>, L. Getoor, SIGKDD Explorations, 2003, 5(1), 84-89.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/link-mining-survey.pdf">Link Mining: A Survey</a>, L. Getoor, SIGKDD Explorations, 2005, 7(2), 3-12.</p>
 <p>Semi-supervised Learning</p>
