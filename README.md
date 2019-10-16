@@ -55,5 +55,7 @@
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/drummondc.pdf">C4.5, Class Imbalance, and Cost Sensitivity: Why Under-Sampling beats Over-Sampling</a>, C. Drummond and R. Holte, in&nbsp;ICML Workshop onLearning from Imbalanced Datasets II, 2003.</p>
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/chawla.pdf">C4.5 and Imbalanced Data sets: Investigating the effect of sampling method, probabilistic estimate, and decision tree structure</a>, N. Chawla, in&nbsp;ICML Workshop on Learning from Imbalanced Datasets II, 2003.</p>
 
-
+<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/UBDM-Chawla-6.pdf">Wrapper-based Computation and Evaluation of Sampling Methods for Imbalanced Datasets</a>, N. Chawla, L. Hall, and A. Joshi, in&nbsp;Proceedings of the 1st International Workshop on Utility-based Data Mining, 24-33, 2005.</p>
+<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/precision-ecml04-ColorTR-final.pdf">Learning from Little: Comparison of Classifiers Given Little of Classifiers given Little Training</a>, G. Forman and I. Cohen, in&nbsp;8th European Conference on Principles and Practice of Knowledge Discovery in Databases, 161-172, 2004.</p>
+<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/multiple-resampling-method.pdf">A Multiple Resampling Method for Learning from Imbalanced Data Sets</a>, A. Estabrooks, T. Jo, and N. Japkowicz, in&nbsp;Computational Intelligence, 20(1), 2004.</p>
 
