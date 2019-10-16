@@ -44,6 +44,6 @@
 </br>
 
 <h1><strong>Cost-Sensitive Learning</strong></h1>
-<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/turney2000.pdf">Types of Cost in Inductive Concept Learning</a>, P. Turney, In Proceedings Workshop on Cost-Sensitive Learning at the Seventeenth International Conference on Machine Learning.</p>
-<p><a href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/chan98.pdf">Toward Scalable Learning with Non-Uniform Class and Cost Distributions: A Case Study in Credit Card Fraud Detection</a>, P. Chan and S. Stolfo, KDD 1998.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/turney2000.pdf">Types of Cost in Inductive Concept Learning</a>, P. Turney, In Proceedings Workshop on Cost-Sensitive Learning at the Seventeenth International Conference on Machine Learning.</p>
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/chan98.pdf">Toward Scalable Learning with Non-Uniform Class and Cost Distributions: A Case Study in Credit Card Fraud Detection</a>, P. Chan and S. Stolfo, KDD 1998.</p>
 
