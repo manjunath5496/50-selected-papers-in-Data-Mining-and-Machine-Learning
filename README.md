@@ -65,3 +65,11 @@
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/raskutti.pdf">Extreme Re-balancing for SVMs: a Case Study</a>, B. Raskutti and A. Kowalczyk,&nbsp;SIGKDD Explorations, 6(1):60-69, 2004.</p>
 
 <p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/c_martin.pdf">Generative Oversampling for Mining Imbalanced Datasets</a>, A. Liu, J. Ghosh, and C. Martin, Third International Conference on Data Mining (DMIN-07), 66-72.</p>
+
+
+<p><a target="_blank" href="https://github.com/manjunath5496/50-selected-papers-in-Data-Mining-and-Machine-Learning/blob/master/new-japkowicz.pdf">Class Imbalances: Are we Focusing on the Right Issue?</a>, N. Japkowicz, in&nbsp;ICML Workshop on Learning from Imbalanced Datasets II, 2003.</p>
+
+
+
+
+
